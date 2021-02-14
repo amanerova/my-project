@@ -1,1 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2021-02-14T18:56:29.615Z" agent="5.0 (X11)" version="14.3.1" etag="cN0TZDiCBsGOTdLe14OD" type="github"><diagram id="uvh0UExIalnuydeN2icv">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-14T19:22:55.563Z" agent="5.0 (X11)" etag="cNEhQf_64JHrTTURymhP" version="14.3.1" type="github">
+  <diagram id="uvh0UExIalnuydeN2icv" name="Page-1">
+    <mxGraphModel dx="3327" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dNqnnkUzdyOOOkLoD-Fb-1" value="" style="html=1;verticalAlign=bottom;startArrow=circle;startFill=1;endArrow=open;startSize=6;endSize=8;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="-180" y="314.5" as="sourcePoint" />
+            <mxPoint x="70" y="314.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-20" y="314.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dNqnnkUzdyOOOkLoD-Fb-186" value="" style="html=1;verticalAlign=bottom;startArrow=circle;startFill=1;endArrow=open;startSize=6;endSize=8;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="1740" y="324.5" as="sourcePoint" />
+            <mxPoint x="1650" y="324.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dNqnnkUzdyOOOkLoD-Fb-189" value="&lt;span style=&quot;font-size: 15px ; color: rgb(0 , 0 , 0) ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;docs-calibri&amp;#34; ; font-style: normal&quot;&gt;Доставить&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
+          <mxGeometry y="10" width="80" relative="1" as="geometry">
+            <mxPoint x="1090" y="320" as="sourcePoint" />
+            <mxPoint x="1170" y="320" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dNqnnkUzdyOOOkLoD-Fb-190" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px ; color: rgb(0 , 0 , 0) ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;docs-calibri&amp;#34; ; font-style: normal&quot;&gt;Выдать &lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px ; color: rgb(0 , 0 , 0) ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;docs-calibri&amp;#34; ; font-style: normal&quot;&gt;(Принять оплату – опционально)&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
+          <mxGeometry x="0.0517" y="35" width="80" relative="1" as="geometry">
+            <mxPoint x="1310" y="324.5" as="sourcePoint" />
+            <mxPoint x="1500" y="325" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dNqnnkUzdyOOOkLoD-Fb-191" value="&lt;div&gt;&lt;span style=&quot;font-size: 15px ; color: rgb(0 , 0 , 0) ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;docs-calibri&amp;#34; ; font-style: normal&quot;&gt;Передать &lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px ; color: rgb(0 , 0 , 0) ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;docs-calibri&amp;#34; ; font-style: normal&quot;&gt;на доставку&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
+          <mxGeometry x="-0.265" y="5" width="80" relative="1" as="geometry">
+            <mxPoint x="827" y="315" as="sourcePoint" />
+            <mxPoint x="944" y="314.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="914" y="315" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dNqnnkUzdyOOOkLoD-Fb-192" value="&lt;div&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;docs-calibri&amp;#34; ; font-style: normal&quot;&gt;Подобрать товар &lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;docs-calibri&amp;#34; ; font-style: normal&quot;&gt;на складе&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
+          <mxGeometry y="20" width="80" relative="1" as="geometry">
+            <mxPoint x="600" y="314.5" as="sourcePoint" />
+            <mxPoint x="680" y="314.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="314.5" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dNqnnkUzdyOOOkLoD-Fb-193" value="&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;docs-calibri&amp;#34; ; font-style: normal&quot;&gt;Менеджеру по товару уточнить&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;docs-calibri&amp;#34; ; font-style: normal&quot;&gt; информацию о заказе&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;docs-calibri&amp;#34; ; font-style: normal&quot;&gt; (Принять оплату – опционально)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1" source="dNqnnkUzdyOOOkLoD-Fb-200">
+          <mxGeometry x="-0.04" y="15" width="80" relative="1" as="geometry">
+            <mxPoint x="240" y="314.5" as="sourcePoint" />
+            <mxPoint x="460" y="315" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="315" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dNqnnkUzdyOOOkLoD-Fb-199" value="&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;docs-calibri&amp;#34; ; font-style: normal&quot;&gt;Сделать заказ&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;docs-calibri&amp;#34; ; font-style: normal&quot;&gt; (Оплатить – опционально)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="270" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dNqnnkUzdyOOOkLoD-Fb-3" value="&lt;span style=&quot;font-size: 19px ; color: #000000 ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;docs-calibri&amp;#34; ; font-style: normal&quot;&gt;Обработано&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="280" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dNqnnkUzdyOOOkLoD-Fb-200" value="&lt;span style=&quot;font-size: 19px ; color: #000000 ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;docs-calibri&amp;#34; ; font-style: normal&quot;&gt;Заказано&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="280" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dNqnnkUzdyOOOkLoD-Fb-6" value="&lt;span style=&quot;font-size: 19px ; color: #000000 ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;docs-calibri&amp;#34; ; font-style: normal&quot;&gt;Собрано&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="687" y="280" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dNqnnkUzdyOOOkLoD-Fb-11" value="&lt;span style=&quot;font-size: 19px ; color: #000000 ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;docs-calibri&amp;#34; ; font-style: normal&quot;&gt;В пути&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="280" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dNqnnkUzdyOOOkLoD-Fb-8" value="&lt;span style=&quot;font-size: 19px ; color: #000000 ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;docs-calibri&amp;#34; ; font-style: normal&quot;&gt;В пункте выдачи&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="290" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dNqnnkUzdyOOOkLoD-Fb-9" value="&lt;span style=&quot;font-size: 19px ; color: #000000 ; font-weight: normal ; text-decoration: none ; font-family: &amp;#34;docs-calibri&amp;#34; ; font-style: normal&quot;&gt;Выдано (оплачено)&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="290" width="140" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
